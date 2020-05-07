@@ -71,7 +71,7 @@ export default {
 
 <style>
 form {
-  padding: 2em 1em 2.5em;
+  padding: 2em 1em 2.45em;
 }
 
 button {
